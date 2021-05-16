@@ -29,4 +29,3 @@ the data parameter is an array of products. The name, article description, quant
 * updateprice () Updates the price of items in the store. The data parameter passes the key-value array - product SKU => price
 
 * getproducts () Loads products from the store that are not in stock in case the products were added to the store first
-* 
